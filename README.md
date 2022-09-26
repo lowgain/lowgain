@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 --!>
 
-- 🔭 I’m currently working on coleg  
-- 🌱 I’m currently learning web development  
-- 👯 I’m looking to collaborate on nixos related things  
+- 🔭 I’m currently working on coleg \n
+- 🌱 I’m currently learning web development<br/>
+- 👯 I’m looking to collaborate on nixos related things<br />
 - 🤔 I’m looking for help with git I am not good with it (yet)  
 - 💬 Ask me about koalas  
 - 📫 How to reach me: dont  
